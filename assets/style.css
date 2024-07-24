@@ -410,8 +410,4 @@ td {
   .about-image{
     flex: 0 0 100%;
   }
-
-  .contact-form{
-    width: 80%;
-  }
 }
